@@ -1,4 +1,4 @@
-timport numpy as np
+import numpy as np
 
 def createboard():
   board = np.zeros((6,7),dtype = int)
